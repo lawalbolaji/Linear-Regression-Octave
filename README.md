@@ -14,6 +14,7 @@ This is a vectorised implementation of Linear regression in octave using the gra
    
    This is the implementation of the gradient descent algorithm. 
 
+Ex1.m runs the files in the correct sequence utilizing the defined computecost and gradient descent methods and returns the parameters of our linear regression model.
 
 
 **NB:** This code contains my solution to machine learning exercises that are a part of Andrew NG's Machine Learning Course on Coursera.
